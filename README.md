@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=JangitiRaju88&label=Profile%20Views&color=0e75b6&style=for-the-badge)
@@ -15,7 +14,7 @@
 
 I'm a passionate **Web Designer & Frontend Developer** who loves crafting clean, responsive, and visually stunning websites. I specialize in building modern web experiences using the latest frontend technologies and design templates.
 
--I design and develop **responsive websites** using HTML, CSS, JavaScript, and React
+-I design and develop **responsive websites** using HTML, CSS, JavaScript, React and Bootstrap
 - I create polished websites using **professional templates and themes**
 - I Always learning and leveling up my skills in modern web design
 - Open to collaborating on **frontend projects and open-source work**
@@ -30,6 +29,7 @@ I'm a passionate **Web Designer & Frontend Developer** who loves crafting clean,
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -82,6 +82,6 @@ I'm a passionate **Web Designer & Frontend Developer** who loves crafting clean,
 
 *"Every great website starts with a single line of code. Let's write something extraordinary together."*
 
-** Thanks for visiting my profile” drop a comment if you like what you see!**
+** Thanks for visiting my profile" drop a comment if you like what you see!**
 
 </div>
